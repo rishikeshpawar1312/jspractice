@@ -1,0 +1,1 @@
+alert(3+3) // running on node , not on browser console 
